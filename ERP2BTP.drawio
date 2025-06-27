@@ -63,41 +63,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qzvT9Ik6ZVAs3nwng6FS-4" value="CPI" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=light-dark(#074d92, #2f3336);fillColor=none;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Integration_Suite_-_Cloud_Integration" vertex="1" parent="1">
-          <mxGeometry x="25" y="288.5" width="52.5" height="52.5" as="geometry" />
-        </mxCell>
-        <mxCell id="qzvT9Ik6ZVAs3nwng6FS-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PSG&lt;/div&gt;&lt;div&gt;048&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-235" y="281" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qzvT9Ik6ZVAs3nwng6FS-6" value="&lt;font size=&quot;1&quot; color=&quot;#475f75&quot;&gt;&lt;b style=&quot;&quot;&gt;ODSO&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#475f75;fillColor=default;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="306" width="90" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="qzvT9Ik6ZVAs3nwng6FS-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#475f75;strokeWidth=1.5;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-100" y="314" as="sourcePoint" />
-            <mxPoint x="-60" y="313.9999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qzvT9Ik6ZVAs3nwng6FS-9" value="" style="endArrow=blockThin;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#475f75;strokeWidth=1.5;exitX=1.015;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;endSize=4;startSize=4;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-17.380149999999958" y="314.0799999999999" as="sourcePoint" />
-            <mxPoint x="25" y="313.95000000000005" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qzvT9Ik6ZVAs3nwng6FS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.107;entryY=0.513;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="qzvT9Ik6ZVAs3nwng6FS-4" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="315" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qzvT9Ik6ZVAs3nwng6FS-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://sapbtp.in/wp-content/uploads/2023/02/SAP-BTP-IN-LOGO.png;" vertex="1" parent="1">
-          <mxGeometry x="117" y="271.40999999999997" width="85.18" height="85.18" as="geometry" />
-        </mxCell>
-        <mxCell id="qzvT9Ik6ZVAs3nwng6FS-12" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_cube.svg;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="288.5" width="45" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="qzvT9Ik6ZVAs3nwng6FS-13" value="&lt;font size=&quot;1&quot; face=&quot;arial&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;BW&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-55" y="338.5" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="qzvT9Ik6ZVAs3nwng6FS-14" value="CPI" style="shape=mxgraph.sap.icon;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=1;strokeColor=light-dark(#074d92, #2f3336);fillColor=none;gradientColor=#FCFCFC;gradientDirection=west;aspect=fixed;SAPIcon=SAP_Integration_Suite_-_Cloud_Integration" vertex="1" parent="1">
           <mxGeometry x="19" y="449.09" width="52.5" height="52.5" as="geometry" />
         </mxCell>
