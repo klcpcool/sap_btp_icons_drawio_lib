@@ -1,9 +1,78 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="114BYnxqpb87bw8aVQpx">
-    <mxGraphModel>
+    <mxGraphModel dx="1136" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="FBIul5Kprfrc5aPu90LY-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="153" width="110" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="110" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="150" width="110" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FBIul5Kprfrc5aPu90LY-1" target="FBIul5Kprfrc5aPu90LY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-1" value="" style="image;html=1;image=img/lib/atlassian/Jira_Service_Desk_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="316.5" y="280" width="59" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="205.5" as="targetPoint" />
+            <mxPoint x="222" y="205.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-2" value="" style="image;html=1;image=img/lib/atlassian/Jira_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FBIul5Kprfrc5aPu90LY-3" target="FBIul5Kprfrc5aPu90LY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FBIul5Kprfrc5aPu90LY-3" target="FBIul5Kprfrc5aPu90LY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-3" value="" style="image;html=1;image=img/lib/atlassian/Jira_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-4" value="" style="image;html=1;image=img/lib/atlassian/Jira_Service_Desk_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="516.5" y="280" width="59" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FBIul5Kprfrc5aPu90LY-5" target="FBIul5Kprfrc5aPu90LY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-5" value="" style="image;html=1;image=img/lib/atlassian/Jira_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-6" value="" style="image;html=1;image=img/lib/atlassian/Jira_Service_Desk_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="316.5" y="400" width="59" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-14" value="approved" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="181" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-15" value="approved" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-19" value="Change Request Jira" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-23" value="Demand Jira" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="242" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-24" value="Feature Clue" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-25" value="Change Request Clue" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="446" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-26" value="Change Jira" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FBIul5Kprfrc5aPu90LY-27" value="Change Clue" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
